@@ -26,7 +26,7 @@ nav li a:hover {
     background-blend-mode: hue;
 }
 body{
-    background-image: url("../images/bgA.jpg");
+    background-image: url("../bgA.jpg");
     height: 100%;
     background-position: center ;
     background-size: cover;
@@ -35,7 +35,7 @@ body{
 }
 
 .pimage{
-    background-image: url("../images/bulack.jpg");
+    background-image: url("../bulack.jpg");
     height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -74,7 +74,7 @@ p{
 }
 
 .roundimage{
-    background-image: url("../images/Ndauooooo.jpg");
+    background-image: url("../Ndauooooo.jpg");
     width: 200px;
     height: 150px;
     border-color: purple;
