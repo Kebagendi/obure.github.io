@@ -59,10 +59,10 @@ p{
 }
 .pbutton {
     padding: 12px 12px;
-    width: 50%;
+    width: 25%;
     background-color: black;
     color: yellow;
-    border-radius: 12px;
+    border-radius: 4px;
 }
 .flexbox{
     display: flex;
@@ -150,14 +150,14 @@ label {
     float: right;
     padding: 12px 20px;
     border-radius: 4px;
-    border: none;
+    border: ;
     color: yellow;
-    background-color: purple;
+    background-color: black;
     width: 20%;
 }
 
 .btnsubmit:hover {
-    background-color: coral;
+    background-color:purple ;
 }
 
 .container {
