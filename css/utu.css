@@ -1,0 +1,51 @@
+body{
+    background-image: url("../images/utu5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 25px;
+}
+img{
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 250px;
+    height: 250px;
+
+}
+form{
+    border:1px solid orangered;
+    background-image: url("../images/utu3.jpg");
+    width: 400px;
+    margin-right: 40%;
+    color: yellow;
+    Margin-left:auto;
+    padding: 45px;
+    border-radius: 20px;
+
+}
+input[input=text]{
+    width: 40%;
+    padding: 12px 15px;
+
+}
+h2{
+    margin-left: auto;
+    color: yellow;
+}
+.divstyle{
+    padding: 40px;
+}
+#emailstyle{
+    width: 200px;
+    padding: 12px 15px;
+}
+.captionstyle{
+    color: #bb2d3b;
+    font-size: xx-large;
+    text-decoration-color: #0c4128;
+}
+.buttonstyle{
+    margin-right: auto;
+    margin-left: auto;
+
+}
